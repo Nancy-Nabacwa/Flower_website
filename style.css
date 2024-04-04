@@ -58,15 +58,15 @@ header{
 #second_section{
     display: flex;
     justify-content: space-between;
-    padding: 0px 20px;
+    padding: 0px 50px;
 }
 .small_pics{
     display: flex;
 }
 #third_section{
     display: flex;
-    gap: 50px;
-   margin-left: 12%;
+     justify-content: space-between;    
+    padding: 0 50px;
    
 }
 #small3{
@@ -105,6 +105,7 @@ header{
    }
    #fourth_section{
     display: flex;
+    justify-content: space-between;
     padding: 0px 50px;
    }
    #RIGHT_IMG{
@@ -115,8 +116,8 @@ header{
    }
    #fifth_section{
     display: flex;
+    justify-content: space-between;
     padding: 0px 50px;
-    gap: 300px;
    }
    #Tree{
     margin-top: 20px;
@@ -145,7 +146,8 @@ header{
    }
    #testimonials{
     display:flex;
-    gap:50px;
+    justify-content: space-between;
+    
     padding: 0 50px;
    }
    .side{
@@ -188,7 +190,7 @@ header{
 
    @media screen and (width:1440px) {
     header{
-        
+
     }
     #last_section{
         padding: 0 20px;
