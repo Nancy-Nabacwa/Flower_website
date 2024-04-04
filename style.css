@@ -1,0 +1,206 @@
+body{
+    
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    font-size: medium;
+    background-color: rgb(101,161,91);
+    color: white;
+    padding: 0px 10px;
+
+}
+#right_upper{
+    display: flex;
+    gap: 20px;
+}
+#nav_Icons{
+    display: flex;
+    margin-top: 30px;
+    gap: 20px;
+}
+.nav-icons{
+    height: 25px;
+}
+#first_section{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    margin-top: 30px;
+    padding: 0px 20px;
+    
+}
+#first_img{
+    position: relative;
+    text-align: center;
+    color: white;
+   
+}
+.top_words{
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.IMG1{
+    opacity: 90%;
+    filter: brightness(100%);
+    width:160%;
+}
+#up_img{
+    display: flex;
+}
+#second_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.small_pics{
+    display: flex;
+}
+#third_section{
+    display: flex;
+    gap: 50px;
+   margin-left: 12%;
+   
+}
+#small3{
+    display: flex;
+    margin-top: 100px;
+    font-size: 10px;
+    
+   }
+   .smol{
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 25px;
+    color:black;
+    margin-top: 10px;
+    margin-left: 35%;
+   }
+   .special_small{
+    height: 1px;
+    padding: 20px;
+    color: grey;
+    font-size: 25px;
+    margin-top: 10px;
+    border-left: 2px solid black;
+    border-right: 2px solid bl;
+   }
+   .left_three{
+    display: flex;
+   }
+   #shopNow{
+    background-color: rgb(110,168,32);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    height: 35px;
+    width: 140px;
+   }
+   #fourth_section{
+    display: flex;
+    padding: 0px 50px;
+   }
+   #RIGHT_IMG{
+    margin-left: 200px;
+   }
+   #featured{
+    margin-left: 35%;
+   }
+   #fifth_section{
+    display: flex;
+    padding: 0px 50px;
+    gap: 300px;
+   }
+   #Tree{
+    margin-top: 20px;
+   }
+   #sixth_section{
+    display: flex;
+    margin-left:15% ;
+    margin-top: 50px;
+    gap: 100px;
+   }
+   #Amazing{
+    padding: 0 50px;
+   }
+   #eighth_section{
+    display: flex;
+    padding: 0px 50px;
+    justify-content: space-between;
+   }
+   #Tree1{
+    margin-top: 50px;
+   }
+   #ninth_section{
+    display: flex;
+    gap: 80px;
+    padding: 0px 50px;
+   }
+   #testimonials{
+    display:flex;
+    gap:50px;
+    padding: 0 50px;
+   }
+   .side{
+    width:150px;
+    height: 120px;
+    border-radius: 30px;
+    margin-top: 20px;
+   }
+   #middle{
+   width: 300px;
+   height: 150px;
+   border-radius: 30px;
+   }
+   .arrows{
+    width:150px;
+     height:100px;
+     margin-top: 20px;
+   }
+   #sub{
+    background-color: rgb(110,168,32);
+    color: white;
+    border: none;
+    width: 305px;
+    height: 50px;
+   }
+   #icons{
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+   }
+   #last_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+   }
+   #cristina{
+    margin-left: 35%;
+   }
+  
+
+   @media screen and (width:1440px) {
+    header{
+        
+    }
+    #last_section{
+        padding: 0 20px;
+        flex-wrap: wrap;
+    }
+
+    
+   }
+
+   @media screen and (min-width:1440px) and (max-width:2250px) {
+    
+   }
+
+
+
