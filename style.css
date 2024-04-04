@@ -188,21 +188,253 @@ header{
    }
   
 
-   @media screen and (width:1440px) {
+   @media screen and (max-width:768px) {
+    body{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+    }
     header{
+        width: 280px;
+        font-size: 3px;
+        font-weight: bolder;
+        height: 20px;
+        margin: 0;
 
     }
-    #last_section{
-        padding: 0 20px;
+    #first_section{
+        font-size: 5px;
+        width: 280px;
+    }
+    #VALLONA{
+        margin-top: 28px;
+    }
+    .nav-icons{
+        width: 8px;
+        height: 8px;
+    }
+    #nav_Icons{
+        gap: 0px;
+    }
+    #second_section{
+        width: 280px;
+    }
+    .IMG1{
+        width: 100px;
+        height: 120px;
+        margin-left: -40px;
+    }
+    #up_img{
+        font-size: 10px;
+        padding: 5px;
+    }
+    #up_img1{
+        font-size: 5px;
+    }
+    .orchid{
+        height: 130px;
+    }
+    .first_style{
+        width: 100px;
+        height: 130px;
+        margin-left: -30px;
+    }
+    #third_section{
+        width: 280px;
+        display: block;
         flex-wrap: wrap;
     }
+    .small_pics{
+        height: 100px;
+        margin-left: -50px;
+        font-size: 10px;
+    }
+    .third_sectionimg{
+        margin-left: 10px;
+        width: 200px;
+    }
+    #small3{
+        margin-left: -55%;
+        font-size: 5px;
+    }
+    .smol{
+        font-size: 10px;
+    }
+    .special_small{
+        font-size: 10px;
+    }
+    .auctor{
+        width: 50px;
+        height: 50px;
+    }
+    .auctor_div{
+        font-size: 6px;
+        
+    }
+    .left_three{
+        margin-left: -60px;
+    }
+    #r_img{
+        width:100px;
+        height: 100px;
+        margin-left: -30%;
+       
+    }
+    .down_fancy{
+        margin-left: -30px;
+    }
+    #RIGHT_IMG{
+        margin-left: -0%;
+        margin-top: -5%;
+        font-size: 9px;
+    }
+    #shopNow{
+        width: 100px;
+    }
+    #fourth_section{
+        width: 280px;
+    }
+    #featured{
+        margin-left: 1%;
+        font-size: 10px;
+    }
+    #fifth_section{
+        width: 280px;
+        font-size: 6px;
+    }
+    #fancy{
+        width: 120px;
+        height: 155px;
+        margin-left: -15%;
+    }
+    .free{
+        margin-left: -25%;
+    }
+    .leaves1{
+        width: 100px;
+        height: 100px;
+        margin-left: -17%;
+    }
+    .leaves2{
+        width: 120px;
+        height: 120px;
+        margin-left: -32%;
+    }
+    #living{
+        font-size: 3px;
+        margin-left: -22%;
+    }
+    #Amazing1{
+        font-size: 20px;
+        margin-left: -0.5%;
+    }
+    #Amazing{
+        width:280px;
+        margin-left: -6%;
+    }
+    .aliquam{
+        width: 60px;
+        height: 60px;
+    }
+    .bigs_3{
+        margin-left: -6%;
+        font-size: 7px;
+    }
+    #Tree1{
+        font-size: 7px;
+        margin-left: -1%;
+    }
+    .cacti_pot{
+        width: 100px;
+        height: 120px;
+        margin-top: 50px;
+        margin-left: -100px;
+        
+    }
+    #eighth_section{
+        width: 280px;
+        padding: 0px;
+        gap: 0;
+    }
+    #from{
+        margin-left: -5%;
+        font-size: 15px;
+    }
+    #ninth_section{
+        width: 280px;
+        padding: 0px;
+        margin-left: 60px;
+    }
+    .blog1{
+        font-size: 3px;
+        margin-left: -20%;
+    }
+    .blog_im{
+        width: 50px;
+        height: 50px;
+    }
+    .person{
+        height: 10px;
+    }
+    .Byjinos{
+        margin-top:-1% ;
+        margin-left: -2%;
+    }
+    .love{
+        margin-left: -50%;
+        font-size: 10px;
+    }
+    .arrows{
+        width:10px;
+        height: 10px;
+    }
+    .side{
+        width: 40px;
+        height: 40px;
+    }
+    #middle{
+        width: 80px;
+        height: 80px;
+    }
+    #testimonials{
+        width:280px;
+        margin-left: -5%;
+    }
+    #cristina{
+        font-size: 7px;
+        margin-left: -1%;
+    }
+    .quick{
+        font-size: 6px;
+    }
+    #last_section{
+        width:280px;
+        margin-left: -5%;
+    }
+    #sub{
+        width: 50px;
+        height: 25px;
+        font-size: 6px;
+    }
+    #in{
+      font-size: 5px;
+    }
+    form{
+        width:10px;
+    }
+    #icons{
+        padding: 0px;
+        gap:0px;
+        margin-left: -5%;
+    }
+    .licons{
+        height: 10px;
+    }
 
     
    }
 
-   @media screen and (min-width:1440px) and (max-width:2250px) {
-    
-   }
 
 
 
